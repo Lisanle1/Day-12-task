@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSya3Mrx8OI-impRv_w-WsLVF86R0phbqTD3bAVBrq0Bnn9U0f02L_K0UHO3cwWRRVVhUM&usqp=CAU);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#content_cont {
+    width: 75%;
+    /* height: 25rem; */
+}
+/* #img-cont, form{
+    height: 25rem;
+} */
+#img {
+    height: 15rem;
+    border-radius: 25px;
+}
